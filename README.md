@@ -1,5 +1,5 @@
 
-This repository serves as a guide for MCA (Master of Computer Applications) graduates to explore various career paths in the IT sector, along with required skills to get started.
+This repository serves as a guide for BCA/MCA/BE/B.Tech/BSc graduates to explore various career paths in the IT sector, along with required skills to get started.
 
 ---
 
